@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>These spirituall verses of Iames Hunt, concerning the down-fall of the ceremonies. VVhereby the bishops and their clergie have made, as it were, a trade to blinde and deceive the children of God, whom Christ Jesus hath redeemed from the bondage of Hell and corruption, by his suffering upon the crosse, and the power of his resurrection.</title>
+            <author>Hunt, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86905</idno>
+            <idno type="STC">Wing H3739</idno>
+            <idno type="STC">Thomason E135_34</idno>
+            <idno type="STC">ESTC R12189</idno>
+            <idno type="EEBO-CITATION">99859233</idno>
+            <idno type="PROQUEST">99859233</idno>
+            <idno type="VID">156452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86905)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156452)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>These spirituall verses of Iames Hunt, concerning the down-fall of the ceremonies. VVhereby the bishops and their clergie have made, as it were, a trade to blinde and deceive the children of God, whom Christ Jesus hath redeemed from the bondage of Hell and corruption, by his suffering upon the crosse, and the power of his resurrection.</title>
+                  <author>Hunt, James, 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse and prose.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Controversial literature --  Early works to 1800.</term>
+               <term>Bishops --  England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156452:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>THESE SPIRITVALL VERSES OF IAMES HUNT, Concerning the Down-fall of the <hi>Ceremonies.</hi>
+            </p>
+            <p>VVhereby the Biſhops and their Cler<g ref="char:EOLhyphen"/>gie have made, as it were, a trade to blinde and deceive the Children of God, whom Chriſt Jeſus hath redeemed from the bondage of Hell and corruption, by his ſuffering upon the Croſſe, and the power of his Reſurrection.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Andrew Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="4" facs="tcp:156452:2"/>
+            <!-- PDF PAGE 42 -->
+            <gap reason="missing" extent="3 pages">
+               <desc>〈3 pages missing〉</desc>
+            </gap>
+            <lg>
+               <l>Wherefore Greeke and Latine that ſeemeth to be ſo bright as the Sun beame,</l>
+               <l>I pray give me leave to interpret a womans dreame,</l>
+               <l>Which ſaid, ſhee was a dreamed ſhe had on a Lawyers gowne,</l>
+               <l>Which doth plainly ſignifie their craftie kingdome will come downe;</l>
+               <l>For if they will be joyned to the God of peace,</l>
+               <l>Their craftie Law muſt end and ceaſe;</l>
+               <l>But maſter Lawyer, you may thinke this is an ill ſound,</l>
+               <l>To tell us our craftie kingdome will goe downe,</l>
+               <l>But I would intreat you not to thinke ſo,</l>
+               <l>For I am your friend and not your foe;</l>
+               <l>For I ſhall ſing you a pleaſant ſong,</l>
+               <l>You may be School maſters to teach other Nations the Engliſh tongue,</l>
+               <l>For God will gather all Nations into Religion one;</l>
+               <l>So by degrees all ſhall be taught the Engliſh tongue;</l>
+               <l>For the Word which proceedeth from the God of peace,</l>
+               <l>Doth plainly ſay, that <hi>tongues ſhall ceaſe:</hi> 1 <hi>Cor.</hi> 13.</l>
+               <l>But Lord Biſhops &amp; deep Doctors which Schollerſhip ſo much adore,</l>
+               <l>You may perceive this being ſo, your Univerſities will grow poor,</l>
+               <l>But the children of God ſhall glorifie his name therefore,</l>
+               <l>For they ſhall plainly underſta<g ref="char:cmbAbbrStroke">̄</g>d, they are thetoſels of the whore;</l>
+               <l>For henceforth no man ſhall need the Univerſities,</l>
+               <l>For to learne the wiſdome of the wiſe;</l>
+               <l>For there are very few myſteries in the Goſpel that be ſo ſtrong,</l>
+               <l>But they may be unfolded by the plaine true Engliſh tongue;</l>
+               <l>For now I make no doubt, but <hi>Babylon</hi> will be quite throwne downe,</l>
+               <l>By the cleare voice of the Trumpet ſound;</l>
+               <l>I meane by the powerfull Preaching of Gods grace,</l>
+               <l>That true and ſound Religion will take place;</l>
+               <l>Theſe things I behold with my ſpirituall eye,</l>
+               <l>For which the name of God, I honour, worſhip, and magnifie.</l>
+            </lg>
+         </div>
+         <div type="sermon">
+            <pb n="5" facs="tcp:156452:2"/>
+            <!-- PDF PAGE 42 -->
+            <p>
+               <seg rend="decorInit">C</seg>Hriſtian Brethren, God hath laid the Goſpel in ſuch a compleat way, that if there be a myſtery or parable that ſpeaketh ſomething darkly in one place, I can finde two or three other places for to prove and juſtifie what that darke myſtery ſignifieth, ſo that is the true and perfect way to interpret the myſteries of God to the true meaning and ſignification, wherefore Chriſt ſaith plainly, <hi>Firſt ſeeke the Kingdome of Hea<g ref="char:EOLhyphen"/>ven and the righteouſneſſe thereof, and then all things ſhall be added unto you:</hi> I underſtand and can prove that Chriſt and his Goſpell ſignifieth Chriſt and his Kingdome, and all thoſe people that are and ſhall be reconciled to Chriſt, and to the obedience of his Word, which is revealed in his Goſpell, they are thoſe whom God hath ordained for to reigne with Chriſt in glory for ever. Now I hope the Clergie of <hi>England,</hi> nor no other man will fight againſt that which they pray for in the Lords Prayer, which ſaith, <hi>Thy King dome come, thy will be done:</hi> Wherefore ſeeing it is Gods good will and pleaſure, to ſhew his power in weakneſſe, for to raiſe me up to ſhew unto all people the true and per<g ref="char:EOLhyphen"/>fect
+<pb n="6" facs="tcp:156452:3"/>
+               <!-- PDF PAGE 43 -->way, how they may be delivered from the bondage of hell and corruption, into the glorious libertie of the children of God: I ſay againe, I hope the Clergie nor no other man will ſhew themſelves for to be ſo unwiſe, as to fight againſt that which they pray for e<g ref="char:EOLhyphen"/>very day: It is written in the 22 Chapter of the <hi>Revelations,</hi> verſ. 16. Chriſt ſaith plainly, <hi>J Jeſus have ſent mine Angells to teſtefie unto you theſe things in the Churches;</hi> The Angell plainly ſignifieth for to be the Miniſter and Meſſenger of Ieſus Chriſt, whom God our glorious Father, and Chriſt Ieſus our Redee<g ref="char:EOLhyphen"/>mer, hath raiſed up for the eſtabliſhing of true and ſound Religion: Wherefore if the Honourable High Court of Parliament will be pleaſed to take notice hereof, it may be a good means to help forward Reformation; which will be to the praiſe and glory of God, and to the confounding of falſe doctrine and falſe worſhip, which belongeth to the devill, which God hath promiſed ſhall come to confuſion; and God is true, and his Go<g ref="char:EOLhyphen"/>ſpell is true, and every title of his Word ſhall be performed.</p>
+            <pb n="7" facs="tcp:156452:3"/>
+            <!-- PDF PAGE 43 -->
+            <p>Now for matters of Law, I would faine know what difference can ariſe betwixt man and man, but that a Iuſtice of Peace, and a Iury of twelve men, may make a peaceable end, and ſo every man may have his right. It is written in the ſeventh Chap. by <hi>S. John,</hi> verſ. 51. <hi>Nicodemus</hi> ſaid concerning Chriſt; <hi>Doth our Law judge any man before it heare and know what he doth;</hi> So I hope our Royall King and Honourable Parliament, will not main<g ref="char:EOLhyphen"/>taine any ſuch Law, that a man ſhall be caſt in priſon, as I have been eight times, and now am threatned to be caſt in priſon againe, for ſpeaking and juſtifying nothing but the very truth, to the praiſe and glory of God. But that I ſhall be brought unto my tryall, to ſhew the cauſe why I cry out ſo much a<g ref="char:EOLhyphen"/>gainſt the Clergie, which are under the au<g ref="char:EOLhyphen"/>thoritie of the Biſhops, which have linked themſelves together, as in a chaine, againſt Chriſt and his elect children; Wherefore I beſeech ſome good Chriſtian people, for the mercies of God, and true love that is in Ieſus Chriſt, that you will ſtand my friend, for to intreat the High Court of Parliament, that I may be brought to my tryall; that the ſame
+<pb n="8" facs="tcp:156452:4"/>
+               <!-- PDF PAGE 44 -->abominable bond of iniquity may be broke; and on the other ſide, the ſpirit of God may be graunted to have his free courſe; for the which, you need not doubt but that Chriſt will reward you with the Crowne of his e<g ref="char:EOLhyphen"/>verlaſting glory: And ſo God ſave the King and Queene, and their royall iſſue; with all the Nobility and Communalty of this Land, and guide them all with thy grace and holy Spirit, that they may lead their lives pleaſing and acceptable in thy ſight, that they may reigne with Chriſt in glory here in this world, and in the world to come for ever<g ref="char:EOLhyphen"/>more world without end, Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
